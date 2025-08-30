@@ -5,6 +5,8 @@ cd cka
 sudo ./setup-kubetools-specific-version.sh
 
 ON CONTROL NODE
+
+./setup-kubetools.sh
 sudo kubeadm init
 READ COMMAND OUTPUT!!!!
 
